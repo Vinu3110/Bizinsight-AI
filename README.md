@@ -170,4 +170,3 @@ The notebook is fully self-contained:
 * Works offline with mock data
 * Extends to real dataset for scalability
 * Demonstrates core concepts required for the capstone
-*
